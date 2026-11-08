@@ -1,9 +1,9 @@
 # Digital Library
-Nama: Rizkina Muasaroh
-NIM: 13040124120009
 Selamat Datang di Perpustakaan Digital
 Berikut ini adalah Koleksi yang dimiliki:
-## Koleksi
+## Pemilik
+Rizkina Muasaroh (13040124120009)
+### Koleksi
 1. [Wawanaca Infoseek with GitHub](ebook/Wawanaca Infoseek with GitHub.pdf) – Sasa R. (2020) 
 2. [Family and Marital Therapy Combined with Individual Psychotherapy with GitHub](ebook/Family and Marital Therapy Combined with Individual Psychotherapy.pdf) – Fleck A. (1980)
 3. [Narcissistic Psychosomatic Disorders with GitHub](ebook/Narcissistic Psychosomatic Disorders.pdf) – Richard D. M.D. (2015)
