@@ -1,4 +1,6 @@
 # Digital Library
+Nama: Rizkina Muasaroh
+NIM: 13040124120009
 Selamat Datang di Perpustakaan Digital
 Berikut ini adalah Koleksi yang dimiliki:
 ## Koleksi
